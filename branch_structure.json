@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-2088-add-failure-path-and-boundary-coverage-for",
+    "security/issue-2115-add-authorization-and-validation-regression"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-2088-add-failure-path-and-boundary-coverage-for": "main",
+    "security/issue-2115-add-authorization-and-validation-regression": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-2088-add-failure-path-and-boundary-coverage-for",
+    "security/issue-2115-add-authorization-and-validation-regression"
+  ]
+}
